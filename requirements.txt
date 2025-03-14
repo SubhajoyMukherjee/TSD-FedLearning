@@ -1,0 +1,10 @@
+flwr
+numpy
+typing
+opencv-python
+pillow
+tensorflow
+torch
+ultralytics
+scikit-learn
+PyYAML
